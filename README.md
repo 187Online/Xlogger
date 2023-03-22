@@ -7,4 +7,4 @@ BTC => 19VMrgCwMu9QXRQkiPYVW3Z27DAoUgAu69
 
 ETH => 0x488aabd6fac2843ecbb73fafbcd4a07a08cd060e
 
-USDT => 0x488aabd6fac2843ecbb73fafbcd4a07a08cd060e
+USDT => 0x488aabd6fac2843ecbb73fafbcd4a07a08cd060e (BEP 20) 
