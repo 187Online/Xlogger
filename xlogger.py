@@ -15,7 +15,7 @@
 
                                         187 O N L I N E 
                                       twitter.com/187online
-                                    RAT TOOL WILL BE SHARED SOON  
+                                  RAT TOOL WILL BE SHARED SOON  
 """
 
 import os
